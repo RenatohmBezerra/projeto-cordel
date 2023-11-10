@@ -85,7 +85,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(/src/imagens/joaninha.jpeg);
+    background-image: url(../imagens/joaninha.jpeg);
    
 
 }
